@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ucculer22
+- 👋 Hi, I’m Christian Schmidt
 - 👀 I’m interested in become a Data Scientist
 - 🌱 I’m currently learning R/Python
-- 💞️ I’m looking to collaborate on Shiny Dashboards in R
 - 📫 How to reach me c.schmidt131@gmail.com
 
 <!---
